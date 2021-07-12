@@ -1,2 +1,2 @@
 # hello-world
-First time usibg Github! :)
+First time using Github! :)
